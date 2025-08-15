@@ -1,1 +1,2 @@
-./images
+# Ignore the ./images folder and its contents
+/images/

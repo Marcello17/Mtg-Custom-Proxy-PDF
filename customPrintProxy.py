@@ -1,5 +1,5 @@
 # This script generates a PDF with images from a relative folder ('./images') arranged on A4 pages.
-# Each page holds up to 9 images (3x3 grid) with exact dimensions (63mm x 88mm), thin white gaps (1mm) between cards as cutting guidelines, and crop marks at corners.
+# Each page holds up to 9 images (3x3 grid) with exact dimensions (63mm x 88mm), thin white gaps (0.5mm) between cards as cutting guidelines, and crop marks at corners.
 # It supports common image formats: .png, .jpg, .jpeg, .gif, .bmp, .tiff.
 # To use: Place your images in a folder named 'images' in the same directory as this script.
 # The script will print the list of loaded images to the console for verification.
